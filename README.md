@@ -1,16 +1,15 @@
-### Hi there 👋
+```
+$ cat /etc/issue.net
 
-<!--
-**rdpascua/rdpascua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ____             _      _    
+ |  _ \  __ _ _ __(_) ___| | __
+ | | | |/ _` | '__| |/ __| |/ /
+ | |_| | (_| | |  | | (__|   < 
+ |____/ \__,_|_|  |_|\___|_|\_\
+                               
+$ cat .env
 
-Here are some ideas to get you started:
+WEBSITE=darickpascua.com
+TWITTER=rdpascua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
