@@ -9,7 +9,4 @@ $ cat /etc/issue.net
                                
 $ cat .env
 
-WEBSITE=darickpascua.com
-TWITTER=rdpascua
-
 ```
